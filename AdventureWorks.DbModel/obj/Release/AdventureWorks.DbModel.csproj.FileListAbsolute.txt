@@ -1,0 +1,24 @@
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll.config
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.pdb
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\EntityFramework.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\EntityFramework.xml
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.xml
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csprojResolveAssemblyReference.cache
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CoreCompileInputs.cache
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CopyComplete
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.pdb
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll.config
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.pdb
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\EntityFramework.dll
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.dll
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\EntityFramework.xml
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.xml
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csprojResolveAssemblyReference.cache
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CoreCompileInputs.cache
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CopyComplete
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.dll
+D:\EPAM\Azure Training\epam-azure-training-tfs\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.pdb

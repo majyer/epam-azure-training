@@ -1,0 +1,11 @@
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\AdventureWorks.DbModel.dll.config
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\AdventureWorks.DbModel.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\AdventureWorks.DbModel.pdb
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\EntityFramework.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\EntityFramework.xml
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Debug\AdventureWorks.DbModel.csproj.CoreCompileInputs.cache
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Debug\AdventureWorks.DbModel.csproj.CopyComplete
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Debug\AdventureWorks.DbModel.dll
+D:\EPAM\adventure-forks\AdventureWorks.DbModel\obj\Debug\AdventureWorks.DbModel.pdb

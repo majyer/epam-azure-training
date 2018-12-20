@@ -1,0 +1,15 @@
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.Services.dll.config
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.Services.dll
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.Services.pdb
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.DbModel.dll
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\EntityFramework.dll
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.DbModel.pdb
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\AdventureWorks.DbModel.dll.config
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\EntityFramework.xml
+D:\EPAM\adventure-forks\AdventureWorks.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\EPAM\adventure-forks\AdventureWorks.Services\obj\Debug\AdventureWorks.Services.csprojResolveAssemblyReference.cache
+D:\EPAM\adventure-forks\AdventureWorks.Services\obj\Debug\AdventureWorks.Services.csproj.CoreCompileInputs.cache
+D:\EPAM\adventure-forks\AdventureWorks.Services\obj\Debug\AdventureWorks.Services.csproj.CopyComplete
+D:\EPAM\adventure-forks\AdventureWorks.Services\obj\Debug\AdventureWorks.Services.dll
+D:\EPAM\adventure-forks\AdventureWorks.Services\obj\Debug\AdventureWorks.Services.pdb
